@@ -6,7 +6,7 @@ A real-time speech transcription tool using Vosk + translation support via:
 - `transcriber_local.py`: Offline translation using MarianMT (Hugging Face)
 
 ## Features
-- Live microphone transcription using Vosk (English, Chinese, German supported)
+- Live microphone transcription using Vosk (English supported)
 - Optional real-time translation to another language (e.g., Chinese)
 - Offline and firewall-safe version with no need for internet
 - Clean console output, minimal dependencies

@@ -2,7 +2,7 @@
 
 A real-time speech transcription tool using Vosk + translation support via:
 
-- `transcriber.py`: Online translator using Deep Translator (Google Translate backend)
+- `transcriber.py`: Online translator using Deep Translator (MyMemory Translate backend)
 - `transcriber_local.py`: Offline translation using MarianMT (Hugging Face)
 
 ## Features

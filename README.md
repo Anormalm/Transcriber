@@ -18,10 +18,10 @@ A real-time speech transcription tool using Vosk + translation support via:
 pip install -r requirements.txt
 ```
 ### 2. Download models
-	•	Vosk model (e.g. English):
+•	Vosk model (e.g. English):
 https://alphacephei.com/vosk/models
 → Place in model/
-	•	(Optional) MarianMT translation model (e.g. opus-mt-en-zh):
+•	MarianMT translation model (e.g. opus-mt-en-zh):
 https://huggingface.co/Helsinki-NLP/opus-mt-en-zh
 → Place in Helsinki-NLP/opus-mt-en-zh/
 
